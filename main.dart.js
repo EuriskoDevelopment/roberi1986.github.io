@@ -40196,14 +40196,14 @@ G.iZ.prototype={
 G:function(a){var t=null,s=F.by(a,!1).a
 return T.Ki(t,M.cW(t,new U.nO(M.a1x(t,t,new L.jX(this.d,t,t)),C.jH,t),t,t,t,s.b,t,t,s.a),t,t,t,t,this.c,t)}}
 A.tw.prototype={
-G:function(a){var t,s,r,q,p=null,o=F.by(a,!1),n=this.c,m=n-J.df(n),l=C.e.d0((n>0.85?1:m)*296)
-if(l===0)l=296
+G:function(a){var t,s,r,q,p=null,o=F.by(a,!1),n=this.c,m=n-J.df(n),l=C.e.d0((n>0.85?1:m)*300)
+if(l===0)l=300
 t=n<0.9?0:1
-if(l>=295)l=296
+if(l>=299)l=300
 n=o.a
 s=n.a
 s=600>s?s:600
-r=M.cW(p,L.fz(C.c.X("Hello, I'm Robert Eriksson a developer with almost 10 years of experience work with complex systems ranging from machine learning, self driving cars to optronic systems design. I am comfortable with agile processes and with a broad spectra of languages and tools. I currently live Varberg, Sweden",0,l),A.cC(p,p,C.k,p,p,p,p,p,p,p,p,20,p,p,p,p,!0,p,p,p,p,p,p)),p,p,p,p,p,p,s)
+r=M.cW(p,L.fz(C.c.X("Hello, I'm Robert Eriksson. A developer with almost 10 years of experience work with complex systems ranging from machine learning, self driving cars to optronic systems design. I am comfortable with agile processes and with a broad spectra of languages and tools. I currently live in Varberg, Sweden",0,l),A.cC(p,p,C.k,p,p,p,p,p,p,p,p,20,p,p,p,p,!0,p,p,p,p,p,p)),p,p,p,p,p,p,s)
 q=P.c4(0,0,2)
 n=n.b/2.5
 return M.xW(p,new T.cI(C.F,p,p,T.SJ(H.b([new T.cj(new V.ap(0,20,0,20),p,p),r,new T.cj(new V.ap(0,20,0,20),p,p),G.UX(M.cW(p,new T.cj(new V.ap(0,50,0,50),p,p),p,p,S.mT(p,p,p,p,p,new X.uA(new L.jX("profile.jpg",p,p),new H.uV(P.aW(204,0,0,0),C.jC),C.jH),C.aG),n,p,p,n),q,t)],u.E),C.l2),p),p)}}
@@ -40230,7 +40230,7 @@ s=o.b
 s=700>s-300?s:700
 o=t/2
 r=u.E
-return M.xW(q,new T.cI(C.F,q,q,T.SJ(H.b([new T.cj(new V.ap(0,20,0,20),q,q),M.cW(q,L.fz("Skills",A.cC(q,q,q,q,q,q,q,q,q,q,q,25,C.b9,q,q,q,!0,q,q,q,q,q,q)),q,q,q,q,q,q,q),new T.cj(new V.ap(0,20,0,20),q,q),M.cW(q,new E.pA(B.W0(H.b([M.cW(q,L.fz(" Experience: \n - AI and Machine Learning \n - Edge Computing \n - IoT \n - Agile and Scrum \n - Embedded Systems \n - Sensor Fusion \n - Requirement Engineering \n - Sensor Design \n - Optronics \n - IR Signature Measurements \n - Sensor and Seeker Design \n - Sensor Fusion \n - Automotive \n - Self Driving Cars \n",A.cC(q,q,q,q,q,q,q,q,q,q,q,15,C.b9,q,q,q,!0,q,q,q,q,q,q)),q,q,q,q,q,q,o),M.cW(q,L.fz(" Tools: \n - C/C++ \n - Python \n - Matlab \n - Flutter/Dart \n - Git \n - GitLab \n - Docker \n - Jenkins \n - LabView",A.cC(q,q,q,q,q,q,q,q,q,q,q,15,C.b9,q,q,q,!0,q,q,q,q,q,q)),q,q,q,q,q,q,o)],r),C.o),!0,q),q,q,q,s/2,q,q,t),new T.cj(new V.ap(0,20,0,20),q,q)],r),C.l3),q),q)}}
+return M.xW(q,new T.cI(C.F,q,q,T.SJ(H.b([new T.cj(new V.ap(0,20,0,20),q,q),M.cW(q,L.fz("Skills",A.cC(q,q,q,q,q,q,q,q,q,q,q,25,C.b9,q,q,q,!0,q,q,q,q,q,q)),q,q,q,q,q,q,q),new T.cj(new V.ap(0,20,0,20),q,q),M.cW(q,new E.pA(B.W0(H.b([M.cW(q,L.fz(" Experience: \n - AI and Machine Learning \n - Edge Computing \n - IoT \n - Agile and Scrum \n - Embedded Systems \n - Sensor Fusion \n - Requirement Engineering \n - Optronics \n - IR Signature Measurements \n - Sensor and Seeker Design \n - Sensor Fusion \n - Automotive \n - Self Driving Cars \n",A.cC(q,q,q,q,q,q,q,q,q,q,q,15,C.b9,q,q,q,!0,q,q,q,q,q,q)),q,q,q,q,q,q,o),M.cW(q,L.fz(" Tools: \n - C/C++ \n - Python \n - Matlab \n - Flutter/Dart \n - Git \n - GitLab \n - Docker \n - Jenkins \n - LabView",A.cC(q,q,q,q,q,q,q,q,q,q,q,15,C.b9,q,q,q,!0,q,q,q,q,q,q)),q,q,q,q,q,q,o)],r),C.o),!0,q),q,q,q,s/2,q,q,t),new T.cj(new V.ap(0,20,0,20),q,q)],r),C.l3),q),q)}}
 F.w7.prototype={
 G:function(a){var t=$.UM()
 return new S.oo(new F.oj(null),X.WQ(null,t,t),null)}}
@@ -40269,9 +40269,9 @@ q.d=new D.oP(0,t,r)},
 G:function(a){var t,s,r=this,q=null,p=M.cW(q,q,$.UM(),q,q,50,q,q,q),o=B.nM(q,C.j,L.nL(C.tZ),new F.IM(r),q),n=u.E,m=H.b([new T.cI(C.F,q,q,N.VF(L.fz("About me",A.cC(q,q,C.k,q,q,q,q,q,q,q,q,q,C.b9,q,q,q,!0,q,q,q,q,q,q)),C.j,new F.IN(r)),q),new T.cI(C.F,q,q,N.VF(L.fz("Skills",A.cC(q,q,C.k,q,q,q,q,q,q,q,q,q,C.b9,q,q,q,!0,q,q,q,q,q,q)),C.j,new F.IO(r)),q),new T.cI(C.F,q,q,B.nM(q,C.j,L.nL(C.tY),new F.IP(r),q),q),new T.cI(C.F,q,q,new T.cj(new V.ap(20,0,20,0),q,q),q)],n),l=r.d,k=r.x
 A.cC(q,q,C.k,q,q,q,q,q,q,q,q,20,C.b9,q,q,q,!0,q,q,q,q,q,q)
 t=r.y
-A.cC(q,q,C.k,q,q,q,q,q,q,q,q,23,q,q,q,q,!0,q,q,q,q,q,q)
+A.cC(q,q,C.k,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q)
 s=r.y
-A.cC(q,q,C.k,q,q,q,q,q,q,q,q,23,q,q,q,q,!0,q,q,q,q,q,q)
+A.cC(q,q,C.k,q,q,q,q,q,q,q,q,20,q,q,q,q,!0,q,q,q,q,q,q)
 s=H.b([new G.vt(k,q),new A.tw(k,q),new Q.yb(" ",t,q),new Z.ul(" ",s,q)],n)
 if(l==null)l=$.ZP()
 return M.xW(new E.mH(o,q,m,0,q,new P.S(1/0,56),q),T.pP(C.cy,H.b([new D.oR(C.m,l,!0,r.gI7(),G.WK(s,!0,!0,!0),q)],n),C.cr),p)},
@@ -40290,7 +40290,7 @@ $S:0}
 F.IL.prototype={
 $0:function(){var t=this.a
 t.f=0
-t.d.lN(0,C.am,P.c4(0,3000,0))},
+t.d.lN(0,C.am,P.c4(0,1000,0))},
 $S:0}
 F.IN.prototype={
 $0:function(){var t=this.a
@@ -40299,7 +40299,7 @@ $S:0}
 F.IK.prototype={
 $0:function(){var t=this.a
 t.f=1
-t.d.lN(1,C.am,P.c4(0,3000,0))},
+t.d.lN(1,C.am,P.c4(0,1000,0))},
 $S:0}
 F.IO.prototype={
 $0:function(){var t=this.a
@@ -40308,7 +40308,7 @@ $S:0}
 F.IJ.prototype={
 $0:function(){var t=this.a
 t.f=2
-t.d.lN(2,C.am,P.c4(0,3000,0))},
+t.d.lN(2,C.am,P.c4(0,1000,0))},
 $S:0}
 F.IP.prototype={
 $0:function(){var t=this.a
